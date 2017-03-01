@@ -26,7 +26,7 @@ namespace _12345Testet.Controllers
 
             return View();
         }
-        public ActionResult ContactTest()
+        public ActionResult KontaktTestetCHANGED()
         {
             ViewBag.Message = "Your contact page.";
 
